@@ -1,6 +1,6 @@
 # auto-value-jackson
 
-That extension is adding `JacksonProperty` to every getter in `AutoValue` class
+Extension is based on Google's [AutoValue](https://github.com/google/auto/tree/master/value) and adds `JacksonProperty` to every getter in `AutoValue` class
 as well as adding `JsonCreator` to constructor method.
 
 Example:
